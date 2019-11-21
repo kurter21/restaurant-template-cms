@@ -17,3 +17,7 @@ title = "G Georges"
     name = "Drinks"
     url  = "/drinks"
     weight = 3
+[[menu.main]]
+    name = "Gallery"
+    url  = "/gallery"
+    weight = 4
