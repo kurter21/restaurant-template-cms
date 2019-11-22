@@ -5,6 +5,6 @@ categories:
   - dinner
 description: Lamb / beef gyro meat
 type: Sandwich
-price: $Free.99
+price: '7.99'
 ---
 
